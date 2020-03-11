@@ -1,1 +1,2 @@
 # pwgen
+PHP password generator
