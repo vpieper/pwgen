@@ -122,6 +122,11 @@ $pw = str_shuffle($pw);
   
   
   Password: <?php echo $pw; ?>
+
+  <p>
+    <?php echo '<a href="https://xkcd.com/936/"><img src="https://imgs.xkcd.com/comics/password_strength.png" /></a>'; ?>
+  </p>
+
 </body>
 </head>
 </html>
